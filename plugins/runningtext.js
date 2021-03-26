@@ -3,7 +3,7 @@ let handler = async (m, { conn, text }) => {
   try { q = m.quoted.download() }
   catch (e) { q = m.download() }
   m.reply('_Criando..._\n*Por favor, aguarde cerca de 1 minuto*')
-  running(await q).then(vid => conn.sendFile(m.chat, vid, 'run.mp4', '*BOT VINIMODS*\Feito com FFmpeg', m))
+  running(await q).then(vid => conn.sendFile(m.chat, vid, 'run.mp4', '*BOT NOVATO*\Feito com FFmpeg', m))
 }
 handler.help = ['run']
 handler.tags = ['tools']
