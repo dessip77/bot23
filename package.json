@@ -1,8 +1,8 @@
  
 {
-  "name": "VINIMODSYT",
-  "version": "1.5.3",
-  "description": "ＶＩＮＩＭＯＤＳＢＯＴ",
+  "name": "NOVATOMODS",
+  "version": "1.0.0",
+  "description": "N O V A T O M O D S",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -22,7 +22,7 @@
   ],
   "homepage": "https://github.com/Nurutomo/wabot-aq",
   "author": {
-    "name": "VINIMODSYT"
+    "name": "NOVATOMODS"
   },
   "repository": {
     "url": "https://github.com/Nurutomo/wabot-aq.git"
